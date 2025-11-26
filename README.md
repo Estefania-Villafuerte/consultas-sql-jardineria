@@ -1,1 +1,0 @@
-# consultas-sql-jardineria
