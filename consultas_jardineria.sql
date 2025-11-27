@@ -1,7 +1,8 @@
-– 1. Información básica de oficinas SELECT codigo_oficina, ciudad, pais,
-telefono FROM oficina;
+– 1. Información básica de oficinas 
+SELECT codigo_oficina, ciudad, pais,telefono 
+FROM oficina;
 
-– 2. Empleados por oficina SELECT codigo_oficina, nombre, apellido1,
+– 2. ObtenerEmpleados por oficina SELECT codigo_oficina, nombre, apellido1,
 apellido2, puesto FROM empleado ORDER BY codigo_oficina;
 
 – 3. Promedio límite de crédito por región SELECT region,
